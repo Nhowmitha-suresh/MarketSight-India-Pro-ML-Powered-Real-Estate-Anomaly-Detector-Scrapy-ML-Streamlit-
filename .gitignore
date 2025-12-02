@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local data and analysis results
+*.db  # Ignores test_realestate.db (SQLite)
+*.csv
+*.xlsx
+*.log
+
+# Scrapy logs/temp
+.scrapy/
