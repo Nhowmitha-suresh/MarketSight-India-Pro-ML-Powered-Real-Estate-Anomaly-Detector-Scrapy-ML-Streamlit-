@@ -2,6 +2,9 @@
 ## MarketSight Pro - Automated Anomaly Detection
 ### Author - Nhowmitha Suresh
 <br>
+Dashboard URL:
+
+👉 http://localhost:8501
 
 A production-ready, full-stack data engineering project that scrapes real estate listings, analyzes market trends, detects price anomalies, and presents actionable insights via a high-end Streamlit dashboard.
 
